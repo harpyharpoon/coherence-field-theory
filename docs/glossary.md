@@ -60,6 +60,24 @@ This glossary provides comprehensive definitions for all terms, symbols, and con
 
 - **Δκ (Injection Complexity)**: Sophistication level of parasite attack. High Δκ increases R_b effectiveness but also risks parasite self-harm.
 
+- **ν_b (Update Frequency)**: Batch processing rate in Predictive Throttle. Optimal value: ν_b* = sqrt(b/a). Balances responsiveness against vulnerability.
+
+- **n_indep**: Number of independent validators contributing to Consensus Sheath. More validators increase C_s density.
+
+- **n_axioms**: Count of axioms in Coherence Kernel. Typically 3-7; affects σ_a calculation. More than 7 incurs sparsity penalty.
+
+- **χ** (chi): Drift seeding parameter injected by parasites. Positive contribution to dD/dt equation.
+
+- **P_pred(x)**: Predicted probability distribution. Agent's internal model of expected outcomes. Mismatch with P_render generates ΨΔ.
+
+- **P_render(x)**: Rendered/observed probability distribution. Actual reality as experienced. Divergence from P_pred is dissonance source.
+
+- **w(x)**: Weighting function in ΨΔ integral. Contextual importance factor for different regions of prediction space.
+
+- **κ_safe**: Safe fork count threshold. Number of concurrent branches sustainable without penalty. Varies by kernel training.
+
+- **S_noise**: Defensive noise injection level. Strategic obfuscation parameter balanced against UCR floor.
+
 ## Processes
 
 - **Predictive Throttle**: Batching updates to reduce exploit frequency. Optimizes update frequency ν_b to minimize harvest surface area: ν_b* = sqrt(b/a). Balances responsiveness against vulnerability windows.
@@ -119,6 +137,12 @@ This glossary provides comprehensive definitions for all terms, symbols, and con
 - **Gradient Harvesting**: Direct ΨΔ extraction once mismatch created. Efficiency η_h depends on target KII. Must balance against Λ_OCT threshold to avoid collapse.
 
 - **Bifurcation Cascade**: Recursive fork exploitation. Induces excessive κ_fork to trigger IMT penalties. Targets exploratory/innovative operators.
+
+- **YM (Yield Memory)**: Parasite resource tracking which defenses are active. Adjusts tactic weighting based on historical effectiveness. Learning mechanism.
+
+- **IB (Injection Budget)**: Parasite resource pool for drift attempts. Limited per cycle; forces strategic allocation decisions.
+
+- **CE (Complexity Envelope)**: Maximum Δκ parasites can safely employ. Exceeding CE risks self-harm through backscatter or energy drain.
 
 ## Advanced Concepts
 
