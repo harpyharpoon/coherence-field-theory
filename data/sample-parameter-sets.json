@@ -1,0 +1,31 @@
+{
+  "baseline_campaign": {
+    "beta": 1.2,
+    "gamma_harvest": 1.4,
+    "alpha_c": 0.85,
+    "lambda_harmonic": 2.0,
+    "gamma_crypt": 0.08,
+    "mu_validation_damping": 0.9,
+    "nu_journal_damping": 0.6,
+    "lambda_oct": 50,
+    "xi_backscatter": 0.3,
+    "rho_fidelity_decay": 0.02,
+    "lambda0_event_hazard": 0.01
+  },
+  "mid_arc_escalation": {
+    "gamma_crypt": 0.12,
+    "lambda_oct": 45,
+    "rho_fidelity_decay": 0.025
+  },
+  "late_arc_pressure": {
+    "gamma_crypt": 0.2,
+    "lambda_oct": 40,
+    "lambda0_event_hazard": 0.015,
+    "rho_fidelity_decay": 0.03
+  },
+  "easy_mode": {
+    "gamma_crypt": 0.05,
+    "lambda_oct": 60,
+    "lambda0_event_hazard": 0.007
+  }
+}
